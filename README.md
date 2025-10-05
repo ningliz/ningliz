@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ningliz
-- 👀 I’m interested in numerical modeling, machine learning
-- 🌱 I’m currently learning machine learning algorithms
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: ningli_zhao@brown.edu
+- 👀 I’m interested in machine learning and geophysics.
+- 🌱 I’m currently learning deep learning
+- 💞️ I’m looking to collaborate on computer vision models
+- 📫 How to reach me: ningli.zhao at gmail dot com
 
 <!---
 ningliz/ningliz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
